@@ -1,0 +1,9 @@
+1 variables
+2 tipos de datos
+3 manejo de cadenas (String)
+4 operadores
+5 sentencias de control
+6 ciclos
+7 colecciones
+8 funciones
+9 clases y objetos
